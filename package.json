@@ -1,12 +1,12 @@
 {
-  "name": "project-color-switch",
+  "name": "project-promisification",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Jakkanda.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://Jakkanda.github.io/goit-js-hw-11-promisification",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11-color-switch/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11-promisification/"
   },
   "repository": {
     "type": "git",
